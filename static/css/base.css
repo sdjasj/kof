@@ -1,5 +1,5 @@
 .kof {
-  background-image: url('static/img/background/0.gif');
+  background-image: url('../img/background/0.gif');
   background-size: 200% 100%;
   background-position: top;
   overflow: hidden;
